@@ -1,0 +1,4 @@
+# Giữ LF cho mã nguồn trên mọi hệ điều hành, tránh diff toàn file khi mở trên Windows
+* text=auto eol=lf
+*.png binary
+*.jpg binary
